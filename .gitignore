@@ -1,0 +1,9 @@
+# Default ignored files
+*.sqlite3
+/item/management/commands/tests.py
+/item/management/commands/tests_2_basic.py
+/item/management/commands/tests_3.py
+/item/management/commands/tests_4_basic.py
+__pycache__/
+*.pyc
+test*
