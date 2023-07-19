@@ -1,3 +1,5 @@
+# watsapp +380673414143
+# telegram @JarikSmirnov
 # Simple program to fetch test data from SuiteCRM
 # and place it with FastAPI server into SQL DB
 # USE
